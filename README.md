@@ -1,2 +1,2 @@
-# webiste
-https://pogchemnp.github.io/webiste/
+# website
+https://pogchemnp.github.io/website/
